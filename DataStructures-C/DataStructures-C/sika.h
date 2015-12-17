@@ -11,7 +11,7 @@
 
 #include <stdio.h>
 
-#define N 20
+#define N 12
 long combi(int n,int r)
 {
     int i ;
