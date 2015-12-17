@@ -7,9 +7,13 @@
 //
 
 #include <stdio.h>
-#include "hanoi.h"
+//#include "hanoi.h"
+//#include "fib.h"
+#include "sika.h"
 int main(int argc, const char * argv[]) {
-    // insert code here...
-    hanoi_main(argc, argv);
-    return 0;
+// insert code here...
+// hanoi_main(argc, argv);
+//fib_main(20);
+    paint();
+   return 0;
 }
