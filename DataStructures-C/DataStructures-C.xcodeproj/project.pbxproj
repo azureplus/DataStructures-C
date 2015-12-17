@@ -31,6 +31,7 @@
 		D749032E1C22C2CC007DF231 /* binarytree_base.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = binarytree_base.h; sourceTree = "<group>"; };
 		D749032F1C22D272007DF231 /* binarytree_extends.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = binarytree_extends.h; sourceTree = "<group>"; };
 		D74903301C22D8C2007DF231 /* sort_bubble.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = sort_bubble.h; sourceTree = "<group>"; };
+		D763D24B1C23072000CFD612 /* graphic_search.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = graphic_search.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -70,6 +71,7 @@
 				D749032E1C22C2CC007DF231 /* binarytree_base.h */,
 				D749032F1C22D272007DF231 /* binarytree_extends.h */,
 				D74903301C22D8C2007DF231 /* sort_bubble.h */,
+				D763D24B1C23072000CFD612 /* graphic_search.h */,
 			);
 			path = "DataStructures-C";
 			sourceTree = "<group>";

@@ -12,12 +12,14 @@
 //#include "sika.h"
 #include "binarytree_extends.h"
 #include "sort_bubble.h"
+#include "graphic_search.h"
 int main(int argc, const char * argv[]) {
 // insert code here...
 // hanoi_main(argc, argv);
 //fib_main(20);
   //paint();
    // binarytree_extends_main();
-    sort_bubble_main();
+    //sort_bubble_main();
+    graphic_search_main();
     return 0;
 }
